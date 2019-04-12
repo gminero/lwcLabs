@@ -1,0 +1,11 @@
+.selected_date{
+    -moz-border-radius: 7px; 
+    -webkit-border-radius: 7px; 
+    border-radius: 7px;
+}
+.calendar__body{
+    cursor: pointer;
+}
+.slds-media__body{
+    z-index: 10;
+}
